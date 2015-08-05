@@ -4,14 +4,14 @@ def index
   end
 
   def show
-@movie = Movie.all
+@movies = Movies.all
   end
 
   def info
   end
 
   def director
-    @director = Director.all
+    @director = Movies.all
   end
 
   def actor
