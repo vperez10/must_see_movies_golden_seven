@@ -1,6 +1,6 @@
 class ActorsController < ApplicationController
 
-def actor
+def index
 
 end
 
